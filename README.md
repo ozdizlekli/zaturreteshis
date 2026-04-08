@@ -65,8 +65,8 @@ python app.py
 ```
 
 
-#Proje Dokümantasyonu
+# Proje Dokümantasyonu
 Projenin literatür araştırması, teorik altyapısı ve detaylı model mimarisi hakkında bilgi edinmek için repoda bulunan Proje_Raporuzaturre.pdf dosyasını inceleyebilirsiniz.
 
-#Katkıda Bulunma
+# Katkıda Bulunma
 Bu proje açık kaynaklıdır ve geliştirmeye açıktır. Geliştirme önerileriniz veya karşılaştığınız hatalar için "Issue" açabilir ya da "Pull Request" gönderebilirsiniz.
